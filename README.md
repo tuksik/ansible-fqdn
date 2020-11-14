@@ -7,6 +7,7 @@ Requirements
 ------------
 
 Ansible version 2.0+
+Tested with version 2.10
 
 ## Platforms
 
